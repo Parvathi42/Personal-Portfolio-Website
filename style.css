@@ -546,7 +546,11 @@ ul li {
     grid-template-columns: 1fr;
   }
 
+  .projects-container .project-box{
+    width: auto;
+  }
 }
+
 
 @media (max-width: 450px){
   html{
